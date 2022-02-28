@@ -1,0 +1,139 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mr. Recorders speech to the Lord Protector upon VVednesday the eighth of Febru. 1653. Being the day of His Highnesse entertainment in London.</title>
+            <author>Steele, William, d. 1680.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93850</idno>
+            <idno type="STC">Wing S5396</idno>
+            <idno type="STC">Thomason E729_2</idno>
+            <idno type="STC">ESTC R206829</idno>
+            <idno type="EEBO-CITATION">99865934</idno>
+            <idno type="PROQUEST">99865934</idno>
+            <idno type="VID">166833</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93850)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 166833)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 112:E729[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mr. Recorders speech to the Lord Protector upon VVednesday the eighth of Febru. 1653. Being the day of His Highnesse entertainment in London.</title>
+                  <author>Steele, William, d. 1680.</author>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by R.I. for Matthew Walbancke, and are to bee sold at his shops at Grayes-Inn-Gates,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1653. [i.e. 1654]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to William Steele by Wing.</note>
+                  <note>Annotation on Thomason copy: "Feb. 10.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:166833:1" rendition="simple:additions"/>
+            <p>M<hi rend="sup">r.</hi> Recorders Speech TO THE LORD PROTECTOR UPON VVedneſday the eighth of FEBRU. 1653. BEING The day of His Highneſſe entertainment IN LONDON.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>R.I.</hi> for <hi>Mathew Walbancke,</hi> and are to bee ſold at his ſhops at <hi>Grayes-Inne-Gates,</hi> 1653.</p>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:166833:2"/>
+            <pb n="1" facs="tcp:166833:2"/>
+            <head>Mr. Recorder's SPEECH To the Lord PROTECTOR, Upon VVedneſday the eight of Fe<g ref="char:EOLhyphen"/>bruary 1653. being the day of His High<g ref="char:EOLhyphen"/>neſſe Entertainment in LONDON.</head>
+            <p>
+               <seg rend="decorInit">M</seg>Ay it pleaſe Your Highneſs, my Lord Protector, it hath been obſerved by ſome, That when <hi>Samuel</hi> offered Sacrifice, he therefore reſer<g ref="char:EOLhyphen"/>ved the Shoulders for <hi>Saul,</hi> that he might know what was the weight of Government: The conſideration of which made <hi>Maximilian</hi> affirm, That none who knew how heavy Diadems were, would ſtoop to take them up. Governors are like the Heavenly Bodies, much in Ve<g ref="char:EOLhyphen"/>neration, but never in reſt; and how can it otherwiſe be expected, when they are not made for themſelves, or their own glory, but for the ſafety and good of Mankinde? as in the Natural, ſo in the Civil World, great things being ordained to ſerve the leſs: We
+<pb n="2" facs="tcp:166833:3"/>ſee the Sun by its Beams, ſerving the eye of the meaneſt Flie, as well as of the greateſt Potentate. The Supremacy of <hi>Salus Populi,</hi> was the concluſion of the Twelve Tables, and will be a Prevalent Maxime until the end of the World.</p>
+            <p>By thus much, My Lord, You may per<g ref="char:EOLhyphen"/>ceive the dark ſide of this Leading Cloud of Government; but if God vouchſafe aſſiſt<g ref="char:EOLhyphen"/>ance from thoſe Shoulders, upon which the Government is laid, and put under his E<g ref="char:EOLhyphen"/>verlaſting Arms, You will ſee the bright ſide alſo, and thence receive Encouragement: This Support he is pleaſed to give, by letting Rulers know he is the Author of their Power, and that from him they are to ex<g ref="char:EOLhyphen"/>pect their Rule. The Deſignation of Go<g ref="char:EOLhyphen"/>vernment, as to Forms and Perſons, is an Humane Inſtitution, and mutable, as things that are made; but Government it ſelf, ab<g ref="char:EOLhyphen"/>ſtractively conſidered in its pure Original, is of a Divine Off-ſpring, and can with no leſs difficulty be ſhaken, then thoſe Veſtigia's which being as Relations tell us, upon the tops of ſome Mountains, above the Clouds, can be diſordered by Wind and Tempeſt. And for the Rule, the Word, or Reaſon of
+<pb n="3" facs="tcp:166833:3"/>God in the Divine Underſtanding, is the Eternal Law of all things. But this being too deep a Well for Mans Bucket to draw out of, it pleaſed his infinite Goodneſs to let fall a Rivolet from this Source into the Creature; which leaving an impreſſion in mans underſtanding, we call, The Law of Nature: But man having this honor, pre<g ref="char:EOLhyphen"/>ſently became of no underſtanding; his minde being clouded with paſſions and ſins, had ſoon need of ſuperadded helps, which God gave him, by thoſe other Laws fit for Government, and ſtill gives a Spirit for the framing ſuch Municipal Laws, as are ac<g ref="char:EOLhyphen"/>cording to his Will, and ſuitable to the good of the People. But when this was done, the beſt Laws without a Government, were no other then as the Sword behinde the E<g ref="char:EOLhyphen"/>phod; and therefore <hi>Moſes</hi> in his time, and other Governors in their time, muſt be as Walking Laws, and Adminiſtrators of Juſtice.</p>
+            <p>We may conclude, My Lord, Your High<g ref="char:EOLhyphen"/>neſs hath Experimented both theſe Encou<g ref="char:EOLhyphen"/>ragements, as being the Spectator of ſome, and the Subject of other great Revolutions which have hapned in this Age, and Land
+<pb n="4" facs="tcp:166833:4"/>of Wonders: And not onely know, That the Moſt High rules in the Kingdoms of Men, diſpoſing them to whom he pleaſeth; but alſo, That its not ſufficient with the Princes of the Nations, to exerciſe domini<g ref="char:EOLhyphen"/>on, which is the common Image of God, except there be alſo a ſhare in the peculiar Image of his Righteouſneſs and Holineſs; they being Gods indeed, and after a peculiar manner, to whom the Reaſon, or Word of God ſo comes.</p>
+            <p>My Lord, There is one help more in Government, which God is pleaſed often to add to the reſt, which is the giving in of the Affections of the People. The ſolemnity of this day, wherein the Citizens of this great City appear in their ſeveral Companies, as ſo many Cities within the City, ſpeaks much to this; they leave it to other Nations to ſalute their Rulers and Victorious Com<g ref="char:EOLhyphen"/>manders with the names of <hi>Caeſares</hi> and <hi>Im<g ref="char:EOLhyphen"/>peratores;</hi> and after Triumphs, to erect for them their <hi>Arcus Triumphales:</hi> But if I miſtake not, their end, this day, is not any ſuch outward Pomp or Glory, but that thoſe who have been delivered together, might rejoyce together; and to expreſs their De<g ref="char:EOLhyphen"/>ſires,
+<pb n="5" facs="tcp:166833:4"/>That the Civil Sword might be as pro<g ref="char:EOLhyphen"/>ſperous for Publick Ends, in the Hand where it is placed, as the Military Sword hath been in the ſame Hand.</p>
+            <p>This City ſeldom goes alone in Publick Actions: it was anciently called by <hi>Stephani<g ref="char:EOLhyphen"/>des,</hi> The heart of the Nation; and if the Heart be in a Politique conſideration, as it is in the natural, it will communicate life and ſpirits into the other Members, by which means the whole Body may unanimouſly contribute their deſires and endeavors to op<g ref="char:EOLhyphen"/>poſe the common Enemy, and after all our diſtractions, ſee the Nation eſtabliſhed upon the firm Baſis of Peace and Righteouſneſſe, which is the end of Government and ſhall be the end of my further troubling Your Highneſſe.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
